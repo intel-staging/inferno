@@ -1,3 +1,14 @@
+## PROJECT NOT UNDER ACTIVE MANAGEMENT
+
+This project will no longer be maintained by Intel.
+
+Intel has ceased development and contributions including, but not limited to, maintenance, bug fixes, new releases, or updates, to this project.  
+
+Intel no longer accepts patches to this project.
+
+If you have an ongoing need to use this project, are interested in independently developing it, or would like to maintain patches for the open source software community, please create your own fork of this project.  
+
+Contact: webadmin@linux.intel.com
 [![Crates.io](https://img.shields.io/crates/v/inferno.svg)](https://crates.io/crates/inferno)
 [![Documentation](https://docs.rs/inferno/badge.svg)](https://docs.rs/inferno/)
 [![Build Status](https://dev.azure.com/jonhoo/jonhoo/_apis/build/status/inferno?branchName=master)](https://dev.azure.com/jonhoo/jonhoo/_build/latest?definitionId=10&branchName=master)
